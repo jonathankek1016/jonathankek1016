@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathankek1016, I am a abosolute noob in Programming (hopefully for now)
+- 👋 Hi, I’m @jonathankek1016, I am a abosolute noob in Programming (hopefully for now). Soon I'll get pro yeah!
 
 <!---
 jonathankek1016/jonathankek1016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

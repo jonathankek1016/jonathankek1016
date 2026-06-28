@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jonathan.
+# 👋 Hi, I'm Jonathan Kek.
 
 I'm a Computer Science student exploring AI, cybersecurity, infrastructure, and systems by building things.
 
